@@ -107,6 +107,7 @@ git checkout student
 Voltando para a branch principal
 ```
 git checkout main
+```
 
 Apagando uma branch
 ```
